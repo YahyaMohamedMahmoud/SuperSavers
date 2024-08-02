@@ -1,0 +1,158 @@
+@media screen and (max-width:1024px){
+   
+    header .navbar .navItems h1{
+        font-size: 28px;
+    }
+    header{
+        padding: 13px 0;
+    }
+    .container{
+        width: 90%;
+    }
+    .auto{
+        margin-top: 10px;
+        margin-left: 0px;
+        margin-bottom: 40px;
+    }
+    .auto .autoText h2{
+        font-size: 32px;
+    }
+    .auto .autoText p{
+        font-size: 19px;
+    }
+    .auto .autoText3 .heading{
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .auto .row{
+        display: flex;
+        flex-direction: row;
+    } 
+    .auto .links .linkTo{
+        width: 32%;
+        padding: 26px 0px;
+        margin-bottom: 5px;
+    }
+    .auto .action a{
+        font-size: 24px;
+        }
+}
+@media screen and (max-width:992px){
+
+    header .navbar .navItems h1{
+        font-size: 28px;
+    }
+    header{
+        padding: 13px 0;
+    }
+    .container{
+        width: 94%;
+    }
+    .auto{
+        margin-top: 10px;
+        margin-left: 0px;
+        margin-bottom: 40px;
+    }
+    .auto .autoText h2{
+        font-size: 32px;
+    }
+    .auto .autoText p{
+        font-size: 19px;
+    }
+    .auto .autoText3 .heading{
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .auto .row{
+        display: flex;
+        flex-direction: row;
+    } 
+    .auto .links .linkTo{
+        width: 32%;
+        padding: 26px 0px;
+        margin-bottom: 5px;
+    }
+    .auto .action a{
+        font-size: 24px;
+        }
+
+}
+@media screen and (max-width:768px){
+    header .navbar .navItems h1{
+        font-size: 28px;
+    }
+    header{
+        padding: 13px 0;
+    }
+    .container{
+        width: 94%;
+    }
+    .auto{
+        margin-top: 10px;
+        margin-left: 0px;
+        margin-bottom: 40px;
+    }
+    .auto .autoText h2{
+        font-size: 32px;
+    }
+    .auto .autoText p{
+        font-size: 19px;
+    }
+    .auto .autoText3 .heading{
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .auto .row{
+        display: flex;
+        flex-direction: row;
+    } 
+    .auto .links .linkTo{
+        width: 32%;
+        padding: 26px 0px;
+        margin-bottom: 5px;
+    }
+    .auto .action a{
+        font-size: 24px;
+        }
+
+
+}
+
+
+@media screen and (max-width:600px){
+    header .navbar .navItems h1{
+        font-size: 28px;
+    }
+    header{
+        padding: 13px 0;
+    }
+    .container{
+        width: 94%;
+    }
+    .auto{
+        margin-top: 10px;
+        margin-left: 0px;
+        margin-bottom: 40px;
+    }
+    .auto .autoText h2{
+        font-size: 32px;
+    }
+    .auto .autoText p{
+        font-size: 19px;
+    }
+    .auto .autoText3 .heading{
+        font-size: 20px;
+        margin-top: 30px;
+    }
+    .auto .row{
+        display: flex;
+        flex-direction: column;
+    } 
+    .auto .links .linkTo{
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    .auto .action a{
+        font-size: 24px;
+        }
+}

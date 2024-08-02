@@ -1,0 +1,20 @@
+footer{
+    background-color: rgba(216, 216, 216, 1);
+    padding-top: 45.6px;
+    padding-bottom: 41px;
+}
+footer .policy {
+    text-align: center;
+}
+footer .policy a{
+    color: black;
+    text-decoration: underline;
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+footer .marketing p{
+    margin-top: 10px;
+    color: rgb(92, 93, 97);
+    font-size: 14px;
+}

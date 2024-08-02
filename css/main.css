@@ -1,0 +1,15 @@
+/* layout style */
+@import url("layout/header.css");
+@import url("layout/footer.css");
+/* layout style */
+
+/* pages style */
+@import url("page/home.css");
+/* pages style */
+
+/* base style */
+@import url("base/base.css");
+/* base style */
+/* responsive style */
+@import url("responsive/responsive.css");
+/* responsive style */

@@ -1,0 +1,12 @@
+header{
+    background-color:rgba(42,84,217,1);
+    padding: 25px 0;
+    color: white;
+}
+header a{
+    color: white;
+}
+header .navbar .navItems h1{
+    font-size: 32px;
+    font-weight: bold;
+}
